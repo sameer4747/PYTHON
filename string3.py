@@ -12,3 +12,5 @@ print("my age is", Age)
 
 print(first_name.title())
 print(second_name.lower())
+first_name = input ("enter the first_name")
+print(first_name)
